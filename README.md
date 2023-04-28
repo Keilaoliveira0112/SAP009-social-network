@@ -1,5 +1,5 @@
 ### Link do projeto:
-<a href="#">Brûlée - Rede social para apaixonados por gastronomia</a>
+<a href="https://brulle-2c8c1.web.app/#feed">Brûlée - Rede social para apaixonados por gastronomia</a>
 ### Tecnologias utilizadas:
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 ### Desenvolvido por:
